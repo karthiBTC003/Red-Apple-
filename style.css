@@ -1,0 +1,258 @@
+body{
+background-color: #F2F2FA;
+}
+.side-container{
+    
+    background: #7979EF;
+    width: 6vw;
+    height: 50rem;
+    margin-top: 1rem;
+    /* border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+ 
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px; */
+    margin-bottom: 10px;
+    margin-left: 25px;
+    border-radius: 45px;
+}
+
+.side-row{
+   
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin-left: 8px;
+
+}
+
+/* .home-one{
+
+} */
+
+.welcome{
+    font: normal normal 600 31px/41px Gilroy;
+    margin-left: 8rem;
+    margin-top: 2rem;
+}
+
+.wel-come{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.dash{
+    color: #434AF7;
+}
+
+#search{
+    margin-left: 11px;
+    margin-top: 35px;
+    width: 16rem;
+    /* outline: none; */
+    /* text-decoration: none; */
+    border: none;
+    border-radius: 17px;
+    height: 35px;
+    /* padding-right: 26px; */
+    padding: 7px;
+    font-weight: 500;
+    color: #434AF7;
+
+}
+#search::placeholder {
+    color:#434AF7; 
+  }
+
+  .ser-ch{
+    margin-left: -3.1rem;
+    position: absolute;
+    margin-top: 41px;
+
+  }
+
+  .wallet-div{
+    width: 111px;
+    height: 36px;
+    border:1px solid #434AF7;
+    margin-top: 36px;
+    border-radius: 16px;
+  }
+
+  .wallet{
+    padding: 6px;
+    color: #7979EF;
+    margin-left: 4px;
+    font-size: 20px;
+  }
+
+  .wal{
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #7979EF;
+    font-weight: 400;
+    top: 35px !important;
+    right: 233px;
+    position: absolute;
+
+  }
+
+  .bell{
+    position: absolute;
+    right: 150px;
+    top: 34px;
+    font-size: 39px;
+    color: #7979EF;
+  }
+
+/* !nav-end */
+  .card-3{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: white;
+    border-radius: 14px;
+    margin-left: 20px;
+    height: 145px;
+  }
+
+  .bal{
+    font-weight: 600;
+  }
+
+  .wall{
+    
+    text-align: end;
+    margin-right: 9px;
+    color: #7979EF;
+    font-weight: 400;
+
+  }
+
+  /* .card-2-row{
+    border-bottom: 1px solid black;
+  } */
+
+
+  .doller{
+    padding: 12px 0px;
+    font-weight: 700;
+  }
+
+  .line{
+    background:#CECECE;
+    width: 100%;
+    height: 1px;
+    margin-left: 7px;
+  }
+
+
+  .card-3-profile{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: white;
+    border-radius: 14px;
+    margin-left: 20px;
+    height: 165px;
+  }
+ .men{
+    width: 60px;
+    border-radius: 50%;
+    height: 61px;
+    margin-left: 100px;
+   
+ }
+ .karthi-div{
+    text-align: center;
+    padding: 10px;
+    font-weight: 500;
+ }
+
+ .men-date{
+    position: absolute;
+    top: 16rem;
+    right: 7rem;
+    font-size: 11px;
+    color:#CECECE;
+ }
+
+
+
+ .sec-row-1-col{
+
+ }
+
+ .card-4{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: white;
+    border-radius: 14px;
+    margin-left: 20px;
+    height: 270px;
+}
+
+.card-5{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: white;
+    border-radius: 14px;
+    margin-left: 20px;
+    height: 160px;
+} 
+
+.days{
+    color:#CECECE;
+}
+
+.days:hover{
+    color:white;
+    font-size: 20px;
+    background: blue;
+    border-radius: 10px;
+}
+
+.cylce{
+    width: 190px;
+    margin-left: -41px;
+}
+
+.last{
+    color: #7979EF;
+}
+
+.item-1{
+    width: 544px;
+    margin-left: 7px;
+    height: 216px;
+}
+
+.tower{
+    rotate: 400deg;
+}
+
+.add-card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    text-align: center;
+    width: 262px;
+    position: absolute;
+    right: 30px;
+    border-radius: 10px;
+    top: 31rem;
+    height: 39px;
+    padding: 7px;
+}
+
+.add-card:hover{
+  background-color: orange;
+  color: white;
+}
+
+.card-6{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: white;
+    border-radius: 14px;
+    margin-left: 20px;
+    height: 230px;
+}
+
+/* ul li::before {
+  content: "•";
+  color: red;
+  margin-right: 0.5em;
+} */
+
+
